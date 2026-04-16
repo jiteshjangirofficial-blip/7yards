@@ -1,0 +1,62 @@
+{
+  "eden-gardens": [
+    {"id": "1", "url": "assets/photos/eden-gardens/1.svg", "alt": "Eden Gardens sunrise avenue view"},
+    {"id": "2", "url": "assets/photos/eden-gardens/2.svg", "alt": "Eden Gardens gated entry design"},
+    {"id": "3", "url": "assets/photos/eden-gardens/3.svg", "alt": "Eden Gardens landscaped park"},
+    {"id": "4", "url": "assets/photos/eden-gardens/4.svg", "alt": "Eden Gardens evening walk path"},
+    {"id": "5", "url": "assets/photos/eden-gardens/5.svg", "alt": "Eden Gardens modern boulevard"},
+    {"id": "6", "url": "assets/photos/eden-gardens/6.svg", "alt": "Eden Gardens open plot view"},
+    {"id": "7", "url": "assets/photos/eden-gardens/7.svg", "alt": "Eden Gardens luxury facade"},
+    {"id": "8", "url": "assets/photos/eden-gardens/8.svg", "alt": "Eden Gardens water fountain feature"},
+    {"id": "9", "url": "assets/photos/eden-gardens/9.svg", "alt": "Eden Gardens garden pavilion"},
+    {"id": "10", "url": "assets/photos/eden-gardens/10.svg", "alt": "Eden Gardens sunset silhouette"}
+  ],
+  "royal-villas": [
+    {"id": "1", "url": "assets/photos/royal-villas/1.svg", "alt": "Royal Villas grand entrance"},
+    {"id": "2", "url": "assets/photos/royal-villas/2.svg", "alt": "Royal Villas royal lawn"},
+    {"id": "3", "url": "assets/photos/royal-villas/3.svg", "alt": "Royal Villas elegant walkway"},
+    {"id": "4", "url": "assets/photos/royal-villas/4.svg", "alt": "Royal Villas scenic pathway"},
+    {"id": "5", "url": "assets/photos/royal-villas/5.svg", "alt": "Royal Villas plot overview"},
+    {"id": "6", "url": "assets/photos/royal-villas/6.svg", "alt": "Royal Villas sunlit garden"},
+    {"id": "7", "url": "assets/photos/royal-villas/7.svg", "alt": "Royal Villas royal archway"},
+    {"id": "8", "url": "assets/photos/royal-villas/8.svg", "alt": "Royal Villas courtyard view"},
+    {"id": "9", "url": "assets/photos/royal-villas/9.svg", "alt": "Royal Villas hilltop sunset"},
+    {"id": "10", "url": "assets/photos/royal-villas/10.svg", "alt": "Royal Villas luxury gate"}
+  ],
+  "green-valley": [
+    {"id": "1", "url": "assets/photos/green-valley/1.svg", "alt": "Green Valley green expanse"},
+    {"id": "2", "url": "assets/photos/green-valley/2.svg", "alt": "Green Valley valley sunrise"},
+    {"id": "3", "url": "assets/photos/green-valley/3.svg", "alt": "Green Valley tree-lined road"},
+    {"id": "4", "url": "assets/photos/green-valley/4.svg", "alt": "Green Valley community park"},
+    {"id": "5", "url": "assets/photos/green-valley/5.svg", "alt": "Green Valley serene waterbody"},
+    {"id": "6", "url": "assets/photos/green-valley/6.svg", "alt": "Green Valley flower bed"},
+    {"id": "7", "url": "assets/photos/green-valley/7.svg", "alt": "Green Valley village-style walk"},
+    {"id": "8", "url": "assets/photos/green-valley/8.svg", "alt": "Green Valley skyline view"},
+    {"id": "9", "url": "assets/photos/green-valley/9.svg", "alt": "Green Valley wellness lawn"},
+    {"id": "10", "url": "assets/photos/green-valley/10.svg", "alt": "Green Valley peaceful garden"}
+  ],
+  "sunrise-enclave": [
+    {"id": "1", "url": "assets/photos/sunrise-enclave/1.svg", "alt": "Sunrise Enclave golden sunrise"},
+    {"id": "2", "url": "assets/photos/sunrise-enclave/2.svg", "alt": "Sunrise Enclave enclave entrance"},
+    {"id": "3", "url": "assets/photos/sunrise-enclave/3.svg", "alt": "Sunrise Enclave open terrace"},
+    {"id": "4", "url": "assets/photos/sunrise-enclave/4.svg", "alt": "Sunrise Enclave morning dew"},
+    {"id": "5", "url": "assets/photos/sunrise-enclave/5.svg", "alt": "Sunrise Enclave sunrise road"},
+    {"id": "6", "url": "assets/photos/sunrise-enclave/6.svg", "alt": "Sunrise Enclave residential cluster"},
+    {"id": "7", "url": "assets/photos/sunrise-enclave/7.svg", "alt": "Sunrise Enclave palm-lined drive"},
+    {"id": "8", "url": "assets/photos/sunrise-enclave/8.svg", "alt": "Sunrise Enclave community plaza"},
+    {"id": "9", "url": "assets/photos/sunrise-enclave/9.svg", "alt": "Sunrise Enclave scenic garden"},
+    {"id": "10", "url": "assets/photos/sunrise-enclave/10.svg", "alt": "Sunrise Enclave warm driveway"}
+  ],
+  "lotus-grove": [
+    {"id": "1", "url": "assets/photos/sunrise-enclave/1.svg", "alt": "Lotus Grove sunrise avenue"},
+    {"id": "2", "url": "assets/photos/sunrise-enclave/2.svg", "alt": "Lotus Grove entrance plaza"},
+    {"id": "3", "url": "assets/photos/sunrise-enclave/3.svg", "alt": "Lotus Grove open terrace"},
+    {"id": "4", "url": "assets/photos/sunrise-enclave/4.svg", "alt": "Lotus Grove morning terrace"},
+    {"id": "5", "url": "assets/photos/sunrise-enclave/5.svg", "alt": "Lotus Grove sunrise road"},
+    {"id": "6", "url": "assets/photos/sunrise-enclave/6.svg", "alt": "Lotus Grove residential cluster"},
+    {"id": "7", "url": "assets/photos/sunrise-enclave/7.svg", "alt": "Lotus Grove palm-lined drive"},
+    {"id": "8", "url": "assets/photos/sunrise-enclave/8.svg", "alt": "Lotus Grove community plaza"},
+    {"id": "9", "url": "assets/photos/sunrise-enclave/9.svg", "alt": "Lotus Grove scenic garden"},
+    {"id": "10", "url": "assets/photos/sunrise-enclave/10.svg", "alt": "Lotus Grove warm driveway"}
+  ]
+}
